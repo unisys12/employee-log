@@ -2,7 +2,7 @@ Employee-Log
 ============
 
 ##Intent
-The intent of this project is to rewrite an existing application from Laravel 4 to Laravel 5. The reason I am rewriting, instead of just updating the old project, is purely to gain more experience. 
+The intent of this project is to rewrite an existing application from Laravel 4 to Laravel 5. The reason I am rewriting, instead of just updating the old project, is purely to gain more experience. Not just in development, but deployment and sys admin stuff as well. The domain this project will parked on is hosted on Network Solutions, but the project will reside on servers on Heroku.
 
 ##Usage
 At this time, well. There is no usage. The project is not done!
