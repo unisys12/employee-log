@@ -9,4 +9,4 @@ At this time, well. There is no usage. The project is not done!
 
 But, in time, this project will allow employees/users to track and report their daily mileage and time through a *(hopefully)* friendly web interface. More instructions and/or documentation will be forth coming. You know, like when I finish it!
 
-This project is currently using Laravel v5 Beta. You cannot say that you were not warned!	
+This project is currently using Laravel v5 Beta. You cannot say that you were not warned!
